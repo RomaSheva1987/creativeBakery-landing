@@ -1,6 +1,6 @@
 ## Creative Bakery
 
-Landing page for a bakery "Bakerlab". It presents the main information about the bakery, their products and provides a contact form.
+Landing page for a bakery "Bakerlab". It presents the main information about the bakery, their products and contact information.
 
 ### Preview
  You can view the live preview of the landing page here: [Landing for creativeBakery](https://romasheva1987.github.io/creativeBakery-landing/).
