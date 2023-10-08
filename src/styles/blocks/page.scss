@@ -15,15 +15,7 @@
   }
 
   &__header {
-    margin-bottom: 104px;
-
-    @include onTablet {
-      margin-bottom: 228px;
-    }
-
-    @include onDesktop {
-      margin-bottom: 290px;
-    }
+    margin-bottom: 80px;
   }
 
   &__menu {
